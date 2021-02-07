@@ -5,13 +5,13 @@
 
 
 ## 使用方法
-在ips.txt中放入需要查询的ip
-[![查询ip](https://s3.ax1x.com/2021/02/07/yNh7bq.png)](https://imgchr.com/i/yNh7bq)
+1. 在ips.txt中放入需要查询的ip
 
-在codes.txt中放入需要查询的行政区划代码
-[![查询天气](https://s3.ax1x.com/2021/02/07/yNhfPS.png)](https://imgchr.com/i/yNhfPS)
+2. 在codes.txt中放入需要查询的行政区划代码
 
-运行脚本后按提示填入token
+3. 运行脚本后按提示填入token
 
 ## 结果
 在同一目录下生成result_ip.txt和result_weather.txt
+[![查询ip](https://s3.ax1x.com/2021/02/07/yNh7bq.png)](https://imgchr.com/i/yNh7bq)
+[![查询天气](https://s3.ax1x.com/2021/02/07/yNhfPS.png)](https://imgchr.com/i/yNhfPS)
